@@ -1,2 +1,2 @@
 # Julia-
-Julia
+Juliaを学んでみる。
